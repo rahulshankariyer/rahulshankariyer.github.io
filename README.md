@@ -17,9 +17,9 @@ visualizations.
 
 <a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau. Click on this link to view the SQL generated data </a>
 
-<a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Then, the below graphs were generated using the Excel sheets. </a>
+<a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Refer to them in this link </a>
 
-
+<a href = "https://docs.google.com/presentation/d/1YoqvJbAVARDMIb3kn1F8EUUODGIHI3lU/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
 
 # Project 2 - Bellabeat Customer Data
 
@@ -46,3 +46,5 @@ Using SQL, I collected data to look into two cases: <br>
 <a href = "https://drive.google.com/file/d/1bS7Y6NH3ueCQJPZdpeBG47E2n5GGV2Lx/view"> This excel file contains data on the hourly intensities of the users based on time of the day and day of the week </a>
 
 <a href = "https://drive.google.com/file/d/1E4wmGTe7YmsHlt2cTzjoWgTXbneE66CA/view"> This excel file contains data on the hourly intensities of the users based on time of the day, day of the week and week of the year </a>
+
+<a href = "https://docs.google.com/presentation/d/1H7ZZyog_Oq73MCDRmLOGSPpDZKgRt9Is/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
