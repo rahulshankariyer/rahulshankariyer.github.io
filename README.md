@@ -13,6 +13,8 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
+<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the source from which the original data for this analysis was extracted </a>
+
 # Project 2 - Bellabeat Customer Data
 
 # Scenario
