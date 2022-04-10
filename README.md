@@ -13,7 +13,7 @@ your team will design a new marketing strategy to convert casual riders into ann
 must approve your recommendations, so they must be backed up with compelling data insights and professional data
 visualizations.
 
-<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the source from which the original data for this analysis was extracted </a>
+<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the Original Bike Trip Data </a>
 
 # Project 2 - Bellabeat Customer Data
 
@@ -27,4 +27,4 @@ Bellabeat’s products and analyze smart device data to gain insight into how co
 insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat
 executive team along with your high-level recommendations for Bellabeat’s marketing strategy
 
-<a href = "https://www.kaggle.com/datasets/arashnic/fitbit"> Click this link to view the source from which the original data for this analysis was extracted </a>
+<a href = "https://www.kaggle.com/datasets/arashnic/fitbit"> Click this link to view the Original Fitbit Data of Bellabeat users </a>
