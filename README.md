@@ -17,7 +17,7 @@ visualizations.
 
 Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau
 
-<img src = "C:/Users/rahulshankariyer/Pictures/Saved Pictures/Behaviour by Week.png?raw=true"/>
+<img src = "Pictures/Saved Pictures/Behaviour by Week.png?raw=true"/>
 
 # Project 2 - Bellabeat Customer Data
 
