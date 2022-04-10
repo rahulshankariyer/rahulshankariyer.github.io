@@ -26,3 +26,5 @@ device fitness data could help unlock new growth opportunities for the company. 
 Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices. The
 insights you discover will then help guide marketing strategy for the company. You will present your analysis to the Bellabeat
 executive team along with your high-level recommendations for Bellabeat’s marketing strategy
+
+<a href = "https://www.kaggle.com/datasets/arashnic/fitbit"> Click this link to view the source from which the original data for this analysis was extracted </a>
