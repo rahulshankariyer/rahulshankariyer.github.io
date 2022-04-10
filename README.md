@@ -4,7 +4,7 @@ Hi, I’m Rahul Shankar Iyer. I had recently completed the Google Data Analytics
 
 # Project 1 - Cyclistic Bike Sharing Data
 
-# Scenario
+## Scenario
 
 I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director
 of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore,
@@ -17,7 +17,7 @@ visualizations.
 
 # Project 2 - Bellabeat Customer Data
 
-# Scenario
+## Scenario
 
 You are a junior data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
 products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the
