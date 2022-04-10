@@ -39,4 +39,10 @@ Using SQL, I collected data to look into two cases: <br>
 1. Whether or not people sleep during the day and if they do, what are their sleeping patterns <br>
 2. An analysis of user activity based upon the time of the day and the day of the week <br>
 
-<a href = "https://docs.google.com/document/d/1njVPndDhyxlecaay71x9VcePwK5KEYXmRAu4y-f2dZw/edit"> This word document on the right contains code required to collect data on the above two points </a>
+<a href = "https://docs.google.com/document/d/1njVPndDhyxlecaay71x9VcePwK5KEYXmRAu4y-f2dZw/edit"> This word document contains code required to collect data on the above two points </a>
+
+<a href = "https://drive.google.com/file/d/1ELteLd45OE2qA2k3MTVeZHXvYv1n0Rf9/view"> This excel file contains data on the daily sleep patterns of the users </a>
+
+<a href = "https://drive.google.com/file/d/1bS7Y6NH3ueCQJPZdpeBG47E2n5GGV2Lx/view"> This excel file contains data on the hourly intensities of the users based on time of the day and day of the week </a>
+
+<a href = "https://drive.google.com/file/d/1E4wmGTe7YmsHlt2cTzjoWgTXbneE66CA/view"> This excel file contains data on the hourly intensities of the users based on time of the day, day of the week and week of the year </a>
