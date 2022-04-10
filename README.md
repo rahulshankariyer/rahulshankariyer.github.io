@@ -34,3 +34,9 @@ insights you discover will then help guide marketing strategy for the company. Y
 executive team along with your high-level recommendations for Bellabeat’s marketing strategy
 
 <a href = "https://www.kaggle.com/datasets/arashnic/fitbit"> Click this link to view the Original Fitbit Data of Bellabeat users </a>
+
+Using SQL, I collected data to look into two cases: <br>
+1. Whether or not people sleep during the day and if they do, what are their sleeping patterns <br>
+2. An analysis of user activity based upon the time of the day and the day of the week <br>
+
+<a href = "https://docs.google.com/document/d/1njVPndDhyxlecaay71x9VcePwK5KEYXmRAu4y-f2dZw/edit"> This word document on the right contains code required to collect data on the above two points </a>
