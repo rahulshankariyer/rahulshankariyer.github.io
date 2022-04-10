@@ -15,10 +15,6 @@ visualizations.
 
 <a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the Original Bike Trip Data </a>
 
-Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau
-
-<img src = "Pictures/Saved Pictures/Behaviour by Week.png?raw=true"/>
-
 # Project 2 - Bellabeat Customer Data
 
 ## Scenario
