@@ -17,9 +17,11 @@ visualizations.
 
 Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau. Please click on the below link to view the SQL generated data
 
-<a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Casual Rider vs Member Rider based on Day of the Week </a>
+<a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
-<a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Refer to them in this link </a>
+Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Please refer to them in the below link
+
+<a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Casual Rider vs Member Rider (By Monthly Frequency and Monthly Average Ride) </a>
 
 <a href = "https://docs.google.com/presentation/d/1YoqvJbAVARDMIb3kn1F8EUUODGIHI3lU/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
 
