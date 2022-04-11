@@ -23,6 +23,10 @@ The below link contains the graph generated from Tableau for the above stats.
 
 <a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Behaviour%20by%20Week.png"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
+The total number of riders by rider type on each day of the week was calculated using R Programming. Please find the graph in the below link.
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Average_Duration.png"> Casual Rider vs Member Rider (By Frequency on each Day of the Week) </a>
+
 Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Please refer to them in the below link
 
 <a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Casual Rider vs Member Rider (By Monthly Frequency and Monthly Average Ride) </a>
