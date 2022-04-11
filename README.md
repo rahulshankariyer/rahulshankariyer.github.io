@@ -19,7 +19,7 @@ Using SQL, the average ride length was calculated based on rider type - member o
 
 <a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
-<img src = "Pictures/Saved Pictures/Behaviour by Week.png?raw=true"/>
+<a href = "Cyclistic Bike Program Membership/Data Visualization through R and Tableau/Behaviour by Week.png"/>
 
 Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Please refer to them in the below link
 
