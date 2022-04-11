@@ -19,6 +19,8 @@ Using SQL, the average ride length was calculated based on rider type - member o
 
 <a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
+<img src = "C:/Users/rahulshankariyer/Pictures/Saved Pictures"/>
+
 Monthly Stats of both member and casual riders were generated using SQL and stored in an excel sheet. Please refer to them in the below link
 
 <a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Casual Rider vs Member Rider (By Monthly Frequency and Monthly Average Ride) </a>
