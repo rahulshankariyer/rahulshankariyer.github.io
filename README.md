@@ -47,11 +47,21 @@ executive team along with your high-level recommendations for Bellabeat’s mark
 
 <a href = "https://www.kaggle.com/datasets/arashnic/fitbit"> Click this link to view the Original Fitbit Data of Bellabeat users </a>
 
+Using R Programming, the following relationships were plotted: <br>
+•Steps Taken in a Day vs Sedentary Minutes <br>
+•Total Minutes Asleep vs Total Time in Bed <br>
+
+Click the below links for data of each:
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Steps%20vs%20Sedentary.png"> Steps vs Sedentary </a>
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Sleep%20vs%20Bed%20Time.png"> Sleep vs Bed Time </a>
+
 Using SQL, I collected data to look into two cases: <br>
 1. Whether or not people sleep during the day and if they do, what are their sleeping patterns <br>
 2. An analysis of user activity based upon the time of the day and the day of the week <br>
 
-<a href = "https://docs.google.com/document/d/1njVPndDhyxlecaay71x9VcePwK5KEYXmRAu4y-f2dZw/edit"> This word document contains code required to collect data on the above two points </a>
+<a href = "https://docs.google.com/document/d/1njVPndDhyxlecaay71x9VcePwK5KEYXmRAu4y-f2dZw/edit"> This link contains the word document with SQL code required to collect data on the above two points </a>
 
 <a href = "https://drive.google.com/file/d/1ELteLd45OE2qA2k3MTVeZHXvYv1n0Rf9/view"> This excel file contains data on the daily sleep patterns of the users </a>
 
