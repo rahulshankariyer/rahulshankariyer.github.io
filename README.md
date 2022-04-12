@@ -31,6 +31,8 @@ Monthly Stats of both member and casual riders were generated using SQL and stor
 
 <a href = "https://drive.google.com/file/d/1Nxg6R--J64a8djh3K7B0Xgz8UpJEMIUJ/view"> Casual Rider vs Member Rider (By Monthly Frequency and Monthly Average Ride) </a>
 
+
+
 <a href = "https://docs.google.com/presentation/d/1YoqvJbAVARDMIb3kn1F8EUUODGIHI3lU/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
 
 # Project 2 - Bellabeat Customer Data
@@ -68,5 +70,27 @@ Using SQL, I collected data to look into two cases: <br>
 <a href = "https://drive.google.com/file/d/1bS7Y6NH3ueCQJPZdpeBG47E2n5GGV2Lx/view"> This excel file contains data on the hourly intensities of the users based on time of the day and day of the week </a>
 
 <a href = "https://drive.google.com/file/d/1E4wmGTe7YmsHlt2cTzjoWgTXbneE66CA/view"> This excel file contains data on the hourly intensities of the users based on time of the day, day of the week and week of the year </a>
+
+Based on the daily sleep data collected for each user, I used Tableau to make a graph on how many days each user has used the fitness tracker to track sleeping data as well as the sleep patterns of the users based on how frequently they are using the tracker. They area available in the below links.
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Usage%20of%20Fitness%20Tracker%20while%20Sleeping.png"> Usage of Fitness Tracker while Sleeping </a>
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/User%20Sleep%20Patterns%20by%20Day%20-%20Frequent%20Users.png"> User Sleep Patterns by Day - Frequent Users </a>
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/User%20Sleep%20Patterns%20by%20Day%20-Moderate%20Users.png"> User Sleep Patterns by Day - Moderate Users </a>
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/User%20Sleep%20Patterns%20by%20Day%20-%20Infrequent%20Users.png"> User Sleep Patterns by Day - Infrequent Users </a>
+
+Data was then collected for the frequency of usage of the fitness tracker for intensity data by each user with the help of Tableau. Please refer to the below links for the usage data
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Weekly%20Usage%20of%20Activity%20Tracker%20By%20Users%20-%201.png"> User Weekly Usage of Fitness Tracker </a>
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Weekly%20Usage%20of%20Activity%20Tracker%20By%20Users%20-%202.png"> User Weekly Usage of Fitness Tracker (Continued) </a>
+
+The total intensity of the users was then measured against the time of the day and the day of the week. Please refer to the graph in the below link.
+
+<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Bellabeat%20Product%20Marketing/Data%20Visualization%20through%20R%20and%20Tableau/Day%20of%20Week%20and%20Time%20of%20Day%20vs%20Total%20Intensity.png"> Day of the Week and Time of the Day vs Total Intensity </a>
+
+
 
 <a href = "https://docs.google.com/presentation/d/1H7ZZyog_Oq73MCDRmLOGSPpDZKgRt9Is/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
