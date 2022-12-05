@@ -21,7 +21,7 @@ Using SQL, the average ride length was calculated based on rider type - member o
 
 The below link contains the graph generated from Tableau for the above stats.
 
-<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Behaviour%20by%20Week.png"> Casual Rider vs Member Rider (By Day of the Week) </a>
+<img src = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Behaviour%20by%20Week.png"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
 The total number of riders by rider type on each day of the week was calculated using R Programming. Please find the graph in the below link.
 
