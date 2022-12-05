@@ -33,7 +33,7 @@ Monthly Stats of both member and casual riders were generated using SQL and stor
 
 
 
-<a href = "https://docs.google.com/presentation/d/1YoqvJbAVARDMIb3kn1F8EUUODGIHI3lU/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
+<a href = "https://https://docs.google.com/presentation/d/1kpW0FqpVBAyf6MrW23Hz9NJUyCPeoH7V/edit#slide=id.p1"> This Power Point Presentation describes each step of the Data Analysis Process for this Case Study </a>
 
 # Project 2 - Bellabeat Customer Data
 
