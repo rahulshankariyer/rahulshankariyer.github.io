@@ -15,13 +15,9 @@ visualizations.
 
 <a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the Original Bike Trip Data </a>
 
-Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau. Please click on the below link to view the SQL generated data
+Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau. Please click on the below link to view the data
 
-<a href = "https://drive.google.com/file/d/1nU_bM-caC3UJQJ0FI6h_RYPnpUNfuIcz/view"> Casual Rider vs Member Rider (By Day of the Week) </a>
-
-The below link contains the graph generated from Tableau for the above stats.
-
-<a href = "https://github.com/rahulshankariyer/rahulshankariyer.github.io/blob/main/Cyclistic%20Bike%20Program%20Membership/Data%20Visualization%20through%20R%20and%20Tableau/Behaviour%20by%20Week.png"> Casual Rider vs Member Rider (By Day of the Week) </a>
+<a href = "https://public.tableau.com/app/profile/rahul5702/viz/AverageRideLengthDataofCyclisticRiders/Sheet1"> Casual Rider vs Member Rider (By Day of the Week) </a>
 
 The total number of riders by rider type on each day of the week was calculated using R Programming. Please find the graph in the below link.
 
