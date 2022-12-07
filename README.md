@@ -15,6 +15,10 @@ visualizations.
 
 <a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> Click this link to view the Original Bike Trip Data </a>
 
+The above data contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. For the purpose of analysis, I downloaded the 12 months of data from 2021 
+
+and created two new columns - 'ride_length' and 'day_of_the_week'
+
 Using SQL, the average ride length was calculated based on rider type - member or casual - as well as day of the week. The graphs were generated using R Programming and Tableau. Please click on the below link to view the data
 
 <a href = "https://public.tableau.com/app/profile/rahul5702/viz/AverageRideLengthDataofCyclisticRiders/Sheet1"> Casual Rider vs Member Rider (By Day of the Week) </a>
