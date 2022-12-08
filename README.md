@@ -12,7 +12,7 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 ### Data Source Used
 
-12 months of data from 2021
+From the original bike trip data, I chose to do my analysis using the 12 months of bike data from 2021
 
 ### Data Transformations
 
