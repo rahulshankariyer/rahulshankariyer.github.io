@@ -10,7 +10,7 @@ I am a junior data analyst working in the marketing analyst team at Cyclistic, a
 
 <a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data, it contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>
 
-### Data Source Used
+### Data Used
 
 From the original bike trip data, I chose to do my analysis using the 12 months of bike data from 2021
 
