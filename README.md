@@ -8,11 +8,11 @@ Hi, I’m Rahul Shankar Iyer. I had recently completed the Google Data Analytics
 
 I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The people who utilize the Cyclistic bike-shairng program belong to one of two categories - member riders who have an annual membership with Cyclistic and casual riders who buy single day or single ride passes to utilize the service. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, the team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, the team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve my recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
-<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data, it contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>
-
 ### Data Used
 
-From the original bike trip data, I chose to do my analysis using the 12 months of bike data from 2021
+<a href = "https://divvy-tripdata.s3.amazonaws.com/index.html"> This is the Original Bike Trip Data, it contains data of bike rides from the year 2013, the year of Cyclistic's founding, till the most recently concluded month. </a>
+
+The data chosen for this analysis was for the calendar year 2021.
 
 ### Data Transformations
 
