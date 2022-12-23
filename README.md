@@ -36,9 +36,9 @@ The below visualizations were generated:
 
 <a href = "https://cf549fb4859a40e5be50640a8c74b7e7.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2FRplot.png"> 2. Casual Rider vs Member Rider - Number of Riders on Each Day of the Week </a>
 
-<a href = "https://docs.google.com/spreadsheets/d/1OhBve9WtBEIp4GTkylZOpdaUHK3sWIfw/edit#gid=937473705"> 3. Casual Rider vs Member Rider - Ride Duration on Each Month of the Year </a>
+<a href = "https://docs.google.com/spreadsheets/d/1OhBve9WtBEIp4GTkylZOpdaUHK3sWIfw/edit#gid=937473705"> 3. Casual Rider vs Member Rider - Ride Duration for Each Month of the Year </a>
 
-<a href = "https://docs.google.com/spreadsheets/d/1OhBve9WtBEIp4GTkylZOpdaUHK3sWIfw/edit#gid=1835290130"> 4. Casual Rider vs Member Rider - Number of Riders on Each Month of the Year </a>
+<a href = "https://docs.google.com/spreadsheets/d/1OhBve9WtBEIp4GTkylZOpdaUHK3sWIfw/edit#gid=1835290130"> 4. Casual Rider vs Member Rider - Number of Riders for Each Month of the Year </a>
 
 <a href = "https://docs.google.com/spreadsheets/d/1dd3sSPWzkqgV3-gcx2ALuvmczPqu_jWo/edit#gid=1097823435"> 5. Member Riders By Bike Type </a>
 
