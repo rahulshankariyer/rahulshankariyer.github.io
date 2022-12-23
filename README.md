@@ -22,9 +22,15 @@ The data chosen for this analysis was for the calendar year 2021.
 4. Calculation of day_of_week: WEEKDAY(started_at,1), Values range from 1-7
 5. Generated Pivot tables to show the weekly stats of both the casual and member riders every month & quarter of the year 2021 – average ride lengths and number of rides
 
+### Tools Used
+
+1. SQL 
+2. Tableau 
+3. R Programming
+
 ### Analysis
 
-With the help of SQL, Tableau and R Programming, I generated the below insights:
+The below insights were generated:
 
 <a href = "https://public.tableau.com/app/profile/rahul5702/viz/AverageRideLengthDataofCyclisticRiders/Sheet1"> 1. Casual Rider vs Member Rider - Ride Duration on Each Day of the Week </a>
 
