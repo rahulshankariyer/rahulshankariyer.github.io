@@ -30,7 +30,7 @@ The data chosen for this analysis was for the calendar year 2021.
 
 ### Analysis
 
-The below insights were generated:
+The below visualizations were generated:
 
 <a href = "https://public.tableau.com/app/profile/rahul5702/viz/AverageRideLengthDataofCyclisticRiders/Sheet1"> 1. Casual Rider vs Member Rider - Ride Duration on Each Day of the Week </a>
 
@@ -48,7 +48,7 @@ The below insights were generated:
 
 <a href = "https://public.tableau.com/app/profile/rahul5702/viz/Top6MostPopularStationsbyBikeType/Sheet1"> 8. Top 6 Most Popular Stations by Bike Type </a>
 
-### Key Findings
+### Insights
 
 1. Casual riders on an average, ride longer than member riders
 2. The number of casual riders increased during the weekend while the number of member riders decreased during the weekend
